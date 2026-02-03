@@ -4,4 +4,7 @@ Material used by Prof. Andrea Vandin for the event Giornata di Orientamento Stud
 Please click on the link below to open an executable _jupyter notebook_ (a mix of presentation material and executable python code)
 * Numpy, Pandas, and Analysis of the Stock market [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EMbeDS-education/StudyingEconomicsAndManagement/blob/main/jupyter/jupyterNotebooks/NumPy_Pandas.ipynb)
 
+
+[<img src="QR code" width="250"/>](qrcode.png)
+
 ![QR code](qrcode.png)
