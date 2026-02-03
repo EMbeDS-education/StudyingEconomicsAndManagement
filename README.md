@@ -5,4 +5,5 @@ Please click on the link below to open an executable _jupyter notebook_ (a mix o
 * Numpy, Pandas, and Analysis of the Stock market [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EMbeDS-education/StudyingEconomicsAndManagement/blob/main/jupyter/jupyterNotebooks/NumPy_Pandas.ipynb)
 
 
-![QR code](qrcode.png)
+[<img src="https://github.com/EMbeDS-education/StudyingEconomicsAndManagement/blob/main/qrcode.png" width="300"/>](image.png)
+
